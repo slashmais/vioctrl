@@ -1,0 +1,13 @@
+uses
+	CtrlLib,
+	VIO,
+	utilfuncs;
+
+file
+	vioctrl.cpp,
+	vioctrl.iml,
+	vioctrl.h;
+
+mainconfig
+	"" = "GUI MT";
+
